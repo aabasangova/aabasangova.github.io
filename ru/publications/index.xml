@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://aabasangova.github.io/ru/publications/</link>
+      <atom:link href="https://aabasangova.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aabasangova.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Publications</title>
+      <link>https://aabasangova.github.io/ru/publications/</link>
+    </image>
+    
+    <item>
+      <title>Мое знакомство с GitHub</title>
+      <link>https://aabasangova.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aabasangova.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-зачем-студенту-github&#34;&gt;💻 Зачем студенту GitHub&lt;/h2&gt;
+&lt;p&gt;На этой неделе я начала более активно использовать &lt;strong&gt;GitHub&lt;/strong&gt; — одну из самых популярных платформ для хранения и совместной разработки программных проектов. Для студентов, изучающих программирование и информационные технологии, это очень полезный инструмент.&lt;/p&gt;
+&lt;p&gt;GitHub позволяет не только хранить код, но и работать над проектами совместно с другими разработчиками, отслеживать изменения и управлять версиями программ.&lt;/p&gt;
+&lt;h2 id=&#34;-что-я-узнала&#34;&gt;📂 Что я узнала&lt;/h2&gt;
+&lt;p&gt;Во время работы с GitHub я познакомилась с несколькими важными понятиями:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📁 &lt;strong&gt;Репозиторий (Repository)&lt;/strong&gt; — место, где хранится проект и все его файлы&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Коммит (Commit)&lt;/strong&gt; — сохранение изменений в проекте&lt;/li&gt;
+&lt;li&gt;🌿 &lt;strong&gt;Ветки (Branches)&lt;/strong&gt; — возможность разрабатывать новые функции отдельно от основной версии проекта&lt;/li&gt;
+&lt;li&gt;⬇ &lt;strong&gt;Push и Pull&lt;/strong&gt; — отправка и получение изменений между компьютером и GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти инструменты помогают разработчикам удобно управлять кодом и контролировать все изменения в проекте.&lt;/p&gt;
+&lt;h2 id=&#34;-почему-github-важен&#34;&gt;🚀 Почему GitHub важен&lt;/h2&gt;
+&lt;p&gt;GitHub используется не только студентами, но и профессиональными разработчиками по всему миру. Он помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;хранить проекты и код в одном месте&lt;/li&gt;
+&lt;li&gt;работать в команде над программами&lt;/li&gt;
+&lt;li&gt;демонстрировать свои навыки и проекты&lt;/li&gt;
+&lt;li&gt;участвовать в открытых проектах (open-source)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-мой-опыт&#34;&gt;📚 Мой опыт&lt;/h2&gt;
+&lt;p&gt;Я начала загружать на GitHub свои учебные задания и небольшие проекты. Это помогает мне лучше организовывать код и отслеживать свой прогресс в изучении программирования.&lt;/p&gt;
+&lt;p&gt;Со временем я планирую развивать свой профиль и добавлять новые проекты, связанные с &lt;strong&gt;бизнес-информатикой и анализом данных&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;GitHub оказался очень удобным инструментом, который помогает не только учиться программированию, но и постепенно формировать свое портфолио разработчика.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
