@@ -5,12 +5,53 @@
     <link>https://aabasangova.github.io/ru/publications/</link>
       <atom:link href="https://aabasangova.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aabasangova.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://aabasangova.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Работа с библиографией</title>
+      <link>https://aabasangova.github.io/ru/publications/03/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aabasangova.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📚 Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе основной фокус был направлен на развитие навыков работы с библиографией и научными источниками.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 Осваивала принципы &lt;strong&gt;поиска академической литературы&lt;/strong&gt;, включая использование научных баз данных и электронных библиотек.&lt;/li&gt;
+&lt;li&gt;🧾 Изучала правила &lt;strong&gt;оформления источников&lt;/strong&gt; в соответствии с установленными стандартами и требованиями.&lt;/li&gt;
+&lt;li&gt;🔍 Училась анализировать научные статьи, выделяя &lt;strong&gt;ключевые идеи, методы и выводы&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🧠 Практиковалась в систематизации информации и формировании &lt;strong&gt;структурированного списка литературы&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;💻 Ознакомилась с инструментами для &lt;strong&gt;управления библиографией&lt;/strong&gt;, которые упрощают хранение и цитирование источников.&lt;/li&gt;
+&lt;li&gt;✍️ Начала применять полученные знания при подготовке учебных материалов и письменных работ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа с источниками помогает глубже понимать изучаемые темы и формирует основу для качественных исследований.&lt;/p&gt;
+&lt;p&gt;Продолжаю развивать навыки академического письма и уверенно двигаться вперед! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>https://aabasangova.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aabasangova.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-языки-разметки-и-latex&#34;&gt;📝 Языки разметки и LaTeX&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с темой &lt;strong&gt;языков разметки&lt;/strong&gt; и подробнее изучила возможности &lt;strong&gt;LaTeX&lt;/strong&gt; как инструмента для подготовки структурированных документов.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 &lt;strong&gt;Языки разметки&lt;/strong&gt; используются для описания структуры текста, его элементов и оформления. Они помогают отделить содержание документа от его внешнего вида.&lt;/li&gt;
+&lt;li&gt;🔤 Одним из самых известных примеров является &lt;strong&gt;LaTeX&lt;/strong&gt; — система подготовки текстов, которая особенно популярна в научной и образовательной среде.&lt;/li&gt;
+&lt;li&gt;📚 LaTeX удобно применять при создании &lt;strong&gt;курсовых работ, научных статей, отчетов, презентаций и технической документации&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📐 Одним из главных преимуществ LaTeX считается качественное оформление &lt;strong&gt;формул, таблиц, списков, ссылок и библиографии&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;💻 В процессе изучения стало понятно, что работа в LaTeX строится не так, как в обычных текстовых редакторах: автор задает команды и структуру документа, а система сама формирует итоговое оформление.&lt;/li&gt;
+&lt;li&gt;⚙️ Такой подход особенно полезен, когда важны &lt;strong&gt;точность, единый стиль оформления и удобство работы с большими документами&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;🚀 Несмотря на то что сначала синтаксис может показаться непривычным, LaTeX дает широкие возможности для создания профессионально оформленных материалов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Изучение языков разметки помогает лучше понять, как организуется текстовая информация в цифровой среде и почему структурированный подход так важен в учебной и профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;LaTeX показывает, что даже сложный документ можно сделать аккуратным, логичным и удобным для чтения.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Мое знакомство с GitHub</title>
